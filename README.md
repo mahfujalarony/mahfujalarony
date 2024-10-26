@@ -1,30 +1,39 @@
-# Hi there 👋, I'm [Mahfuj Alam Rony]!
+# Hi there, I'm [Your Name] 👋
 
-Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** 🚀.
+I'm a passionate **MERN Stack Developer** with experience building scalable and efficient web applications. I love exploring new technologies and continuously improving my skills through projects and problem-solving.
 
-### 🔧 Technologies & Tools
+---
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+### 🚀 About Me
+- 🧑‍💻 I specialize in building full-stack applications using **MongoDB, Express, React,** and **Node.js**.
+- 💡 I'm currently enhancing my skills by working on various projects, like chat applications and authentication systems.
+- 🌐 Experienced in **Next.js** and **Turbopack**, with a recent focus on **Prisma** and **MongoDB** integration.
+- 💻 I enjoy solving complex problems on **LeetCode** in **Python** and **JavaScript**, with over 100 problems solved!
 
-### 🔥 My GitHub Stats
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+---
 
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)
+### 💼 Technical Skills
+- **Languages:** JavaScript, Python
+- **Frontend:** React, Bootstrap
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, Prisma ORM
+- **Tools & Platforms:** Git, GitHub, VS Code
 
-### 📫 How to reach me:
+---
 
-- **Email:** [mahfujalamrony07@gmail.com](mahfujalamrony07@gmail.com)
-- **LinkedIn:** (https://www.linkedin.com/in/mahfuj-alam-rony-b7a407299/)
-- **Portfolio:** [your-portfolio.com](https://www.your-portfolio.com)
+### 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/mahfuj-alam-rony-b7a407299/)
 
-### ✨ Fun fact:
+- [Email](https://github.com/mahfujalarony/mahfujalarony/blob/main/mahfujalamrony07@gmail.com)
 
-- I love building cool things with **MERN Stack** and solving complex challenges.
+---
 
-Thanks for stopping by! 😄
+### 💡 Fun Fact
+When I'm not coding, you’ll find me exploring new tools, reading tech blogs, or brainstorming new project ideas!
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfujalarony/mahfujalarony&show_icons=true&theme=radical)
+
+Thank you for stopping by!
