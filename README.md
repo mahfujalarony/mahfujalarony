@@ -34,6 +34,6 @@ When I'm not coding, you’ll find me exploring new tools, reading tech blogs, o
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfujalarony/mahfujalarony&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfujalarony&show_icons=true&theme=radical)
 
 Thank you for stopping by!
