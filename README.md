@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Mahfuj Alam Rony] 👋
 
 I'm a passionate **MERN Stack Developer** with experience building scalable and efficient web applications. I love exploring new technologies and continuously improving my skills through projects and problem-solving.
 
