@@ -103,7 +103,7 @@ I have a moderate understanding of **Data Structures and Algorithms**, and have 
 <h3 align="left">Connect with me:</h3>
 
   <p align="left">
-   <a href="www.linkedin.com/in/mahfuj-alam-rony-b14458248" target="blank"
+   <a href="https://www.linkedin.com/in/mahfuj-alam-rony-b14458248" target="blank"
     ><img
      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
      alt=""
