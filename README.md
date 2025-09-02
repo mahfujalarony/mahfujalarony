@@ -60,7 +60,7 @@ I’m also exploring backend development and currently learning:
 
 I have a moderate understanding of **Data Structures and Algorithms**, and have solved several problems on **LeetCode** using **Python**.
 
- ### 🌐 Check out my [Portfolio](https://mahfuj-alam-rony.netlify.app/).
+ ### 🌐 Check out my [Portfolio](https://ronys-portfolio.vercel.app/).
 
  
 
