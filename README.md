@@ -1,112 +1,64 @@
-<h1 align="center">
-   Hi
-   <picture>
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.webp" type="image/webp" />
-    <img
-     src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.gif"
-     alt="👋"
-     width="40"
-     height="40"
-    /> 
-   </picture>, I'm Mahfuj Alam Rony
-</h1>
+# Hi, I'm Mahfuj 👋
 
-<h3 align="center">Hello, I am a Full Stack Developer with experience in both frontend and backend development.</h3>
+Full stack dev, mostly living in React/Next.js on the frontend and Node.js with PostgreSQL/MongoDB on the backend.
+
+<img src="https://komarev.com/ghpvc/?username=mahfujalarony&label=Profile%20views&color=0e75b6&style=flat" alt="mahfujalarony" />
+
+## About Me
+
+I got into web development through React, and it's still where I feel most at home. 
+
+Nowadays, I spend most of my time building interfaces with Next.js (App Router). When it comes to UI, I mostly use Tailwind, but I also work with Ant Design, shadcn/ui, or MUI depending on what fits the project best. I like to keep animations simple and meaningful with Framer Motion, rather than adding motion just for the sake of it.
+
+For state management, I use Context API for smaller/local state and Redux (Redux Toolkit) once an app has enough moving parts that prop-drilling stops making sense. Data fetching is usually Axios, Fetch, or React Query, and I try to keep an eye on unnecessary re-renders since that's where a lot of "why is this app slow" bugs hide.
+
+On the backend, I build REST APIs with Node.js and Express. For databases, I work with both sides:
+- **MongoDB** with Mongoose for schema modeling, validation, and queries
+- **PostgreSQL** with Prisma as the ORM, for projects where the data is more relational and I want type-safe queries and easy migrations
+
+I pick between them based on what the data actually looks like — Mongo when the structure is flexible/nested, Postgres + Prisma when I need strict relationships and consistency. I also write my frontend code with the API contract in mind so hooking things up doesn't turn into a mess later.
+
+I also solve problems on [LeetCode](https://leetcode.com/u/mahhfujalamrony/) in Python — nothing crazy, but enough to keep my DSA fundamentals from getting rusty.
+
+## Some projects
+
+- **[E-comarce-shop](https://github.com/mahfujalarony/E-comarce-shop)** – a full stack e-commerce site, currently live
+
+- **[Multipurpose-AI](https://github.com/mahfujalarony/Multipurpose-AI)** – an AI-powered utility app 
+
 
 <p align="left">
-   <img
-    src="https://komarev.com/ghpvc/?username=mahfujalarony&label=Profile%20views&color=0e75b6&style=flat"
-    alt="mahfujalarony"
-   />
+  <a href="https://www.mahfujalamrony.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Visit%20Portfolio-4F46E5?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:contact@mahfujalamrony.me">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" align="right" width="400" />
+## Deployment & DevOps
 
-## 👋 About Me
+I regularly deploy projects on **Vercel**, **Netlify**, **Render**, and **Firebase** (Hosting/Functions) — comfortable picking whichever fits the project, whether it's a static frontend, a full Next.js app, or a small backend service.
 
-Hello, I am a **Full Stack Developer**. I have experience with React/Next.js, Node.js, PostgreSQL, and MongoDB.
+Beyond that, I have working experience with **Cloudflare** (Pages/Workers) for edge deployment, and I've deployed apps on **Microsoft Azure** — mainly through **App Service** and **Docker** containers. I also have a reasonable grip on **Docker** itself — writing Dockerfiles, building images, and running containers for local dev or deployment.
 
-I specialize in building responsive and interactive user interfaces using:
-- ⚛️ **React.js**
-- 🔥 **Next.js**
-- 🎨 **Tailwind CSS**, **Material UI**, **SadCn**
-- 🎥 **Framer Motion**
+## Stack
 
-I am confident in using **Context API** and **Redux** for state management, and I always write code in a **backend-friendly structure** for smooth integration.
+- **Languages:** JavaScript, TypeScript, Python
+- **Frontend:** React, Next.js, Context API, Redux (Redux Toolkit), Tailwind CSS, Material UI, shadcn/ui, Framer Motion
+- **Data fetching:** Axios, Fetch API, React Query
+- **Backend:** Node.js, Express, REST API design
+- **Databases/ORM:** MongoDB + Mongoose, PostgreSQL + Prisma, Firebase
+- **Deployment:** Vercel, Netlify, Render, Firebase, Cloudflare, Azure (App Service), Docker
+- **Tools:** Git, VS Code, Vite, Figma, Adobe XD
 
-I use:
-- 📡 **Axios**, **Fetch API**, and **React Query** for efficient data fetching
-- 🚀 Performance optimization techniques to improve user experience
-- 🪲 Careful about **re-renders**, quickly **detect bugs**, and solve them efficiently
-
----
-
-### 🔧 Backend Knowledge
-
-I am actively learning and working with backend technologies:
-- 🟢 **Node.js** - Building scalable backend services
-- 🍃 **MongoDB** - NoSQL database for flexible data storage
-- 🐘 **PostgreSQL** - Relational database for structured data
-- 🟡 **REST API Development** - Designing efficient APIs
-
----
-
-### 📚 DSA & Problem Solving
-
-I have a moderate understanding of **Data Structures and Algorithms**, and have solved several problems on **LeetCode** using **Python**.
-
----
-
-### 🌐 Check out my [Portfolio](https://www.mahfujalamrony.me/).
-
-✅ Always eager to learn and build efficient, scalable, and user-friendly web applications.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujalarony" alt="Streak Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfujalarony&show_icons=true&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahfujalarony&show_icons=true&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" />
 </p>
 
-### 🛠️ Skills
+## Reach me
 
-#### Programming Languages  
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/) [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
-
-#### Libraries & Frameworks  
-[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/) [![Next.js](https://skillicons.dev/icons?i=next)](https://nextjs.org/) [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/) [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/) [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)  
-🟡 **REST API Development**
-
-#### Databases & Cloud    
-[![MongoDB](https://skillicons.dev/icons?i=mongo)](https://www.mongodb.com/) [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/) [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
-
-#### Tools & Technologies  
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/) [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/) [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/) [![Adobe XD](https://skillicons.dev/icons?i=xd)](https://www.adobe.com/products/xd.html)
-
----
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-   <a href="https://www.linkedin.com/in/mahfuj-alam-rony-b14458248" target="blank"
-    ><img
-     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-     alt=""
-   /></a>
-  <a href="https://www.instagram.com/rnimaahphujaalm/" target="blank"
-    ><img
-     src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-     alt=""
-   /></a>
-  <a href="https://web.facebook.com/profile.php?id=100070429084257" target="blank"
-    ><img
-     src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-     alt=""
-   /></a>
-  <a href="https://wa.me/01784343983" target="blank"
-    ><img
-     src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-     alt=""
-   /></a>
-</p>
+- LinkedIn: [mahfuj-alam-rony](https://www.linkedin.com/in/mahfuj-alam-rony-b14458248)
+- Portfolio: [mahfujalamrony.me](https://www.mahfujalamrony.me/)
+- WhatsApp: [+880 1328-021258](https://wa.me/01329021258)
