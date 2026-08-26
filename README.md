@@ -49,8 +49,8 @@ Beyond that, I have working experience with **Cloudflare** (Pages/Workers) for e
 - **Data fetching:** Axios, Fetch API, React Query
 - **Backend:** Node.js, Express, REST API design
 - **Databases/ORM:** MongoDB + Mongoose, PostgreSQL + Prisma, Firebase
-- **Deployment:** Vercel, Netlify, Render, Firebase, Cloudflare, Azure (App Service), Docker
-- **Tools:** Git, VS Code, Vite, Figma, Adobe XD
+- **Deployment:** Vercel, Netlify, Render, Firebase, Cloudflare(basic), Azure (App Service), Docker(basic)
+- **Tools:** Git, VS Code, Figma, Adobe XD
 
 <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujalarony" alt="Streak Stats" />
